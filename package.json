@@ -1,6 +1,6 @@
 {
   "name": "hubot-asaichi",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that returns asaichi schedule",
   "main": "index.js",
   "scripts": {
